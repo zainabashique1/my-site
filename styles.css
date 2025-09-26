@@ -1,0 +1,77 @@
+* {
+	box-sizing:border-box;
+	margin:0;
+}
+
+body{
+	background-color:black;
+	color:white;
+	font-family:sans-serif;
+	
+}
+main{
+	padding:0 30px;
+	padding-top:30px;
+}
+
+#logo {
+	font-weight:bold;
+	font-size:30px;
+	margin-right:10%;
+}
+#links{
+	margin:0 10%;
+}
+
+.nav-link:hover {
+	color:red;
+}
+
+
+
+#button{
+	margin-left: 10%;
+}
+#special {
+	color:red;
+}
+
+nav {
+	padding:0 30px;
+	padding-top:10px;
+}
+button{
+	padding:10px 20px;
+	border-radius:5px;
+	background-color:white;
+	color:black;
+	}
+a{
+	padding:5px 10px;
+	background-color:black;
+	color:white;
+}
+body{
+	
+}
+
+
+#container {
+	display:flex;
+	height:90vh;
+	
+}
+
+#content {
+	width:50%;
+	
+}
+
+#img {
+	width:50%;
+	background-image:url("images/girl.png");
+	background-repeat:no-repeat;
+	margin-top:-80px;
+	margin-right:-170px;
+	
+}
